@@ -94,9 +94,9 @@ Based on the results, the SVM with a polynomial kernel achieved the highest accu
 
 ## Files in the Repository
 
-* `num.ipynb`: The Jupyter Notebook containing all the code, analysis, and results.
+* `Digit Recognition.ipynb`: The Jupyter Notebook containing all the code, analysis, and results.
 * `README.md`: This file.
 
 ## Conclusion
 
-This project demonstrates the application of various machine learning classifiers for the task of handwritten digit recognition. The SVM model showed excellent performance, highlighting its effectiveness for this type of image classification task. Further improvements could potentially be achieved by more extensive hyperparameter tuning, exploring other preprocessing techniques, or using more complex neural network architectures.
+This project demonstrates the application of various machine learning classifiers for the task of digit recognition. The SVM model showed excellent performance, highlighting its effectiveness for this type of image classification task. Further improvements could potentially be achieved by more extensive hyperparameter tuning, exploring other preprocessing techniques, or using more complex neural network architectures.
