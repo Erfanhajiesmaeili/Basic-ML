@@ -4,7 +4,7 @@ Welcome to the `basic_ml` directory! This folder serves as a repository for vari
 
 ## Purpose
 
-The primary goal of these projects is educational. They represent practical implementations of core machine learning techniques learned through courses, tutorials, or self-study. Each project aims to showcase the application of one or more algorithms on different datasets (often standard datasets like those from Scikit-learn or UCI ML Repository).
+The primary goal of these projects is educational. They represent practical implementations of core machine learning techniques learned through courses, tutorials, or self-study. Each project aims to showcase the application of one or more algorithms on different datasets.
 
 ## Algorithms & Concepts Covered
 
