@@ -101,8 +101,6 @@ The performance of each model on the test set, based on one specific run in the 
 
 <img src="images/recall.png" alt="Recall Comparison" width="500"/>
 
-Visual comparisons of these metrics (Train Data Accuracy, Test Data Accuracy, Precision, and Recall) are provided through bar plots at the end of the notebook.
-
 ## How to Run
 
 1.  Ensure you have Python installed.
