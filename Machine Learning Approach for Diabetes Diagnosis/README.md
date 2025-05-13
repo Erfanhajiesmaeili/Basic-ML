@@ -96,7 +96,7 @@ The performance of each model on the test set, based on one specific run in the 
 ![Precision Comparison](images/precision.png)
 
 **Recall:**
-![Recall Comparison](recall.png)
+![Recall Comparison](images/recall.png)
 
 Visual comparisons of these metrics (Train Data Accuracy, Test Data Accuracy, Precision, and Recall) are provided through bar plots at the end of the notebook.
 
