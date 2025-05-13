@@ -90,7 +90,7 @@ The performance of each model on the test set, based on one specific run in the 
     * Recall: ~41.07%
 
 **Test Data Accuracy:**
-![Test Data Accuracy Comparison](images/acc_test.png)
+<img src="images/acc_test.png" alt="Test Data Accuracy Comparison" width="500"/>
 
 **Test Data Accuracy:**
 ![Precision Comparison](images/precision.png)
