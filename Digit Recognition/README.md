@@ -1,6 +1,6 @@
 # Digit Recognition
 
-This project focuses on recognizing handwritten digits from images using various machine learning classification algorithms. The dataset used for this project is the "Optical recognition of handwritten digits dataset" available through `sklearn.datasets`.
+This project focuses on recognizing digits from images using various machine learning classification algorithms. The dataset used for this project is the "Optical recognition of handwritten digits dataset" available through `sklearn.datasets`.
 
 ## Project Overview
 
