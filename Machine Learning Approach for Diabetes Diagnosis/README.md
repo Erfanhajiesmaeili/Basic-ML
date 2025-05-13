@@ -89,7 +89,9 @@ The performance of each model on the test set, based on one specific run in the 
     * Precision: ~74.19%
     * Recall: ~41.07%
 
-![acc test](images/my_plot.png)
+**Test Data Accuracy:**
+![Test Data Accuracy Comparison](images/acc_test.png)
+
 Visual comparisons of these metrics (Train Data Accuracy, Test Data Accuracy, Precision, and Recall) are provided through bar plots at the end of the notebook.
 
 ## How to Run
