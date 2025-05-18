@@ -52,11 +52,13 @@ All five implemented models were evaluated on the test set. The XGBoost classifi
 The **XGBoost model** yielded the highest ROC AUC (0.9847) and F1-Score (0.9489).
 
 **XGBoost Model - Confusion Matrix:**
+
 <img src="images/XGboost - Confusion Matrix.png" alt="XGboost cm" width="500"/>
 
 The **RandomForest model** yielded the highest ROC AUC (0.9784) and F1-Score (0.93).
 
 **RandomForest Model - Confusion Matrix:**
+
 <img src="images/Random Forest - Confusion Matrix.png" alt="Random Forest cm" width="500"/>
 
 ### Most Influential Features (Based on the 6 original features used for modeling)
