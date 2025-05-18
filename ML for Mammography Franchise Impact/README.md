@@ -92,8 +92,8 @@ The findings underscore that mammography utilization is influenced by a complex 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-project-folder-name>
+    git clone <https://github.com/Erfanhajiesmaeili/Basic-ML/tree/main>
+    cd <ML for Mammography Franchise Impact>
     ```
 2.  **Ensure Python 3.x is installed.**
 3.  **Install necessary libraries.** 
