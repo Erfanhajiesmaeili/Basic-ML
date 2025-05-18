@@ -66,9 +66,11 @@ The **RandomForest model** yielded the highest ROC AUC (0.9784) and F1-Score (0.
 The feature importance analysis from XGBoost and RandomForest models, using the six original input features, provided the following insights:
 
 **Key Features from XGBoost (Top 6 shown):**
+
 <img src="images/XGboost - feature importances.png" alt="XGboost fi" width="500"/>
 
 **Key Features from RandomForest (Top 6 shown):**
+
 <img src="images/Random Forest - feature importances.png" alt="XGboost fi" width="500"/>
 
 **Corrected Interpretation of Feature Importances based on your code (using the 6 original features: `AGE`, `SEX`, `INSAT`, `POVCAT`, `TOTSLF`, `TOTEXP`):**
@@ -94,7 +96,7 @@ The findings underscore that mammography utilization is influenced by a complex 
     cd <your-project-folder-name>
     ```
 2.  **Ensure Python 3.x is installed.**
-3.  **Install necessary libraries.** While a `requirements.txt` is not provided with this iteration, the key libraries used are:
+3.  **Install necessary libraries.** 
     * `pandas`
     * `numpy`
     * `seaborn`
