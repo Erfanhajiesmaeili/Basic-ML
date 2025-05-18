@@ -46,6 +46,7 @@ The project followed a structured data science pipeline:
 All five implemented models were evaluated on the test set. The XGBoost classifier and RandomForest classifier demonstrated superior performance.
 
 **Performance Summary of All Evaluated Models:**
+
 <img src="images/Comparison.png" alt="Comparison" width="500"/>
 
 The **XGBoost model** yielded the highest ROC AUC (0.9847) and F1-Score (0.9489).
